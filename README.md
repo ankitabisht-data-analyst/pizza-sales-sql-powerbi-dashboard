@@ -37,11 +37,17 @@ A restaurant chain needs to know what's actually working on its menu and when de
 
 ## 🔍 Key Insights (from the actual 48,620-row dataset)
 - **Total Revenue: $817.86K** from **49,574 pizzas** across **21,350 orders**, with an Average Order Value of **$38.31** and **2.32 pizzas per order**.
+- 
 - **Friday is the single busiest day**, with **3.5K orders** — roughly 25% higher than the next-busiest days (Thursday and Saturday at ~3.1K) — a clear signal for weekend staffing and inventory planning.
+- 
 - **July and January are the strongest months**, while **December is the weakest month by a wide margin** (1,266 orders vs. a ~1,800 monthly average), pointing to a seasonal dip worth targeting with promotions.
+- 
 - **Classic and Supreme categories together account for over half of all sales** (26.9% and 25.5% respectively), making them the two categories to prioritize for ingredient stock and menu placement.
+- 
 - **Large pizzas drive 45.9% of all sales by size** — nearly double the next-largest size (Medium at 30.5%) — suggesting upsell-to-large promotions could meaningfully boost revenue per order.
+- 
 - **The Thai Chicken Pizza is the top revenue performer** (~$43K), while **The Brie Carré Pizza is the lowest performer across all three metrics** (revenue, quantity, and orders) — a strong candidate to re-price, reformulate, or remove from the menu.
+- 
 - **The Classic Deluxe Pizza leads in both quantity sold and order count**, confirming it as the restaurant's most reliable volume driver, not just a top revenue earner.
 
 ## 🚀 How to Use This Project
