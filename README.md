@@ -30,10 +30,11 @@ A restaurant chain needs to know what's actually working on its menu and when de
 3. **Power BI** – Built a two-page dashboard: an Overview page (KPIs, daily/monthly trends, category/size split) and a Best/Worst Sellers page (top & bottom 5 pizzas by revenue, quantity, and orders), with a Pizza Category slicer and date range filter.
 
 ## 📈 Dashboard Preview — Overview Page
-![Pizza Sales Dashboard Overview](./images/pizza_sales_dashboard_2.png)
+![Pizza Sales Best Worst Sellers](./images/pizza_sales_dashboard_1.png)
 
 ## 📈 Dashboard Preview — Best & Worst Sellers Page
-![Pizza Sales Best Worst Sellers](./images/pizza_sales_dashboard_1.png)
+
+![Pizza Sales Dashboard Overview](./images/pizza_sales_dashboard_2.png)
 
 ## 🔍 Key Insights (from the actual 48,620-row dataset)
 - **Total Revenue: $817.86K** from **49,574 pizzas** across **21,350 orders**, with an Average Order Value of **$38.31** and **2.32 pizzas per order**.
